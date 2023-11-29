@@ -1,0 +1,124 @@
+PROJECT GOVERNANCE (GOVERNANCE MODEL)
+
+
+Topic 1: Project Plan
+---------------------
+
+1. Critical Phath Management
+2. Make sure that you monitor progress in your project
+3. Review progress periodically
+4. 
+
+TOPIC 2: CHANGE MANAGEMENT
+--------------------------
+
+1. Take Change Management seriously, and re-organise your schedule if necessary to accomodate changes
+
+TOPIC 3 - PEOPLE MANAGEMENT
+---------------------------
+
+1. ITS About recruiting suitable candidates with skills
+2. People start getting bored if the project takes too long and the project manager needs to deal with it
+3. 
+
+
+Governance Issues
+-Availability/Flexibility
+- Capacity
+- Suitability
+- Attrition
+- Development
+- Motivation
+- Agile teams
+- Organisational Change Management
+
+AGile - u give yo people a chanhe to work for 2 weeks, and approve or reject
+The customer approves in to weeks, it waterfall u take 1 year before the customer can see the output
+
+Agile is about how you asseble people in a team and not about working faster
+Yo agile team must be trained to work in agile
+
+In Agile we work through a backlog and not through milestones
+in the two weeks you do not interfere during a sprint, you give them work to do and you do not interefere with them
+
+Agile is a concentration of the right people with skills to do a specific piece of work
+
+TOPIC 4: TIME MANAGEMENT
+-------------------------
+
+Time is very precious
+
+TOPIC 5: Cost Management
+
+TOPIC 6: QUALITY MANAGEMENT
+---------------------------
+
+1. Quality Built - you have people that understand quality
+2.Qulaity Gates
+3. Quality Standards - give templates and examples, for example a project charter -- you can do peer reviews, employees working together
+4. Quality Criteria
+5. Quality GatesTOPIC 
+
+
+6: QUALITY MANAGEMENT
+---------------------
+
+1. cONTRACTUAL Agreement
+2. Evoliving Scope
+3. Scope Creep
+4. Clear scope items
+5.Assumptions
+6. Out of scope statement
+
+A lot of projects gets problematic because of scope
+
+7. RISK MANAGEMENT
+------------------
+
+8. ISSUE MANAGEMENT
+-------------------
+
+9. PROJECT KICK-OFF
+-------------------
+
+10. project status Reporting
+
+1. Various Levels
+2. Milestones
+3. Issues
+4. Risks
+5.Changes,
+6.Dependencies
+7. Cost
+
+This is were you sit and review the status of the project, this must be done regularly
+
+11.Communication Management
+---------------------------
+
+Is us and them in a project brings a lot of strain, and can be also as a result of company politics
+
+
+WHY DO PROJECTS FAIL
+
+40% because of communication
+22% project organisation (planning and change management)
+20% Resources
+18% project variable
+
+WHY DO PROJECTS SUCCEED
+
+30% because of communication
+35% project organisation (planning and change management)
+14% Resources
+12% project variable - scope, risk,issues
+
+
+LINK GOVERNANCE MODEL WITH PMBOK
+>
+PROJECT METHODOLOGY  (PRINCE 2,ASAP, SAP ACTIVATE, ITIL,PMBOK), high level --its a philisophy -->
+PROJECT METHODOLOGY VARIENTS  - On premises, Cloud
+PROJECT METHODOLOGY OPTIONS -  Agile WATERFALL
+PROJECT METHODOLOGY ROADMAP - Spefific
+
+SO Agile is an option of a project method

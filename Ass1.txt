@@ -1,0 +1,95 @@
+Software failure is predictable and avoidable
+
+Large failures can steal a company's entire future
+
+Sftwarfailure is 15 to 20 percent for projects that have budgets of 10 million or more
+
+IT projects rarely fail for 1 or 2 reasons.
+
+Catching a software glitch early saves money pg 4
+
+40/50 percent of the work done is avoidable rework than value-added work pg 4 - the cost is 100% higher to fix work while on production 
+
+Attempting to fix an error sometimes leads to new ones
+
+PROJECT fails when rework exceeds value-added work that has been budgetted for
+
+Software developers dont aim to fail
+
+we look at business management, project management, organisational culture to get to the roots of project failure
+
+Chief among the business factors are competition and the need to cut costs. Increasingly, senior managers expect IT
+departments to do more with less and do it faster than before; they view software projects not as investments but as
+pure costs that must be controlled.
+
+Political exigencies can also wreak havoc on an IT project's schedule, cost, and quality. When Denver International
+Airport attempted to roll out its automated baggage-handling system, state and local political leaders held the project to
+one unrealistic schedule after another. The failure to deliver the system on time delayed the
+
+A lack of upper-management support can also damn an IT undertaking
+
+Frequently, IT project managers eager to get funded resort to a form of liar's poker, overpromising what their project will
+do, how much it will cost, and when it will be completed. Many, if not most, software projects start off with budgets that
+are too small. When that happens, the developers have to make up for the shortfall somehow, typically by trying to
+increase productivity, reducing the scope of the effort, or taking risky shortcuts in the review and testing phases. These
+all increase the likelihood of error and, ultimately, failure.
+
+proving that past performance is no guarantee of future results.
+
+After crash investigators consider the weather as a factor in a plane crash, they look at the airplane itself. Was there
+something in the plane's design that caused the crash? Was it carrying too much weight?
+In IT project failures, similar questions invariably come up regarding the project's technical components: the hardware
+and software used to develop the system and the development practices themselves. Organizations are often seduced
+by the siren song of the technological imperative--the uncontrollable urge to use the latest technology in hopes of gaining a competitive edge. With technology changing fast and promising fantastic new capabilities, it is easy to
+succumb. But using immature or untested technology is a sure route to failure.
+
+A project's sheer size is a fountainhead of failure. Studies indicate that large-scale projects fail three to five times more
+often than small ones. The larger the project, the more complexity there is in both its static elements (the discrete
+pieces of software, hardware, and so on) and its dynamic elements (the couplings and interactions among hardware,
+software, and users; connections to other systems; and so on). Greater complexity increases the possibility of errors,
+because no one really understands all the interacting parts of the whole or has the ability to test them.
+
+Sobering but true: it's impossible to thoroughly test an IT system of any real size. Roger
+
+All IT systems are intrinsically fragile. In a large brick building, you'd have to remove hundreds of strategically placed
+bricks to make a wall collapse. But in a 100 000-line software program, it takes only one or two bad lines to produce
+major problems
+
+Sloppy development practices are a rich source of failure, and they can cause errors at any stage of an IT project
+
+project managers play a crucial role in software projects and can be a major source of errors that lead to failure.
+
+Bad decisions by project managers are probably the single greatest cause of software failures today. Poor technical
+management, by contrast, can lead to technical errors, but those can generally be isolated and fixed. However, a bad
+project management decision--such as hiring too few programmers or picking the wrong type of contract--can wreak
+havoc. For example, the developers of the doomed travel reservation system claim that they were hobbled in part by
+the use of a fixed-price contract. Such a contract assumes that the work will be routine; the reservation system turned
+out to be anything but.
+
+The last area that investigators look into after a plane crash is the organizational environment. Does the airline have
+a strong safety culture, or does it emphasize meeting the flight schedule above all? In IT projects, an organization that
+values openness, honesty, communication, and collaboration is more apt to find and resolve mistakes early enough
+that rework doesn't become overwhelming.
+
+In the final analysis , big software failures tend to resemble the worst conceivable airplane crash, where the pilot was
+inexperienced but exceedingly rash, flew into an ice storm in an untested aircraft, and worked for an airline that gave lip
+service to safety while cutting back on training and maintenance.
+
+It would appear that getting quality software on time
+and within budget is not an urgent priority at most organizations.
+
+Even organizations that get burned by bad software experiences seem unable or unwilling to learn from their mistakes.
+
+Some organizations do care about software quality, as the experience of the software development firm Praxis High
+Integrity Systems, in Bath, England, proves. Praxis demands that its customers be committed to the project, not only
+financially, but as active participants in the IT system's creation. The company also spends a tremendous amount of
+time understanding and defining the customer's requirements, and it challenges customers to explain what they want
+and why. Before a single line of code is written, both the customer and Praxis agree on what is desired, what is
+feasible, and what risks are involved, given the available resources.
+
+Like electricity, water, transportation, and other critical parts of our infrastructure, IT is fast becoming intrinsic to our
+daily existence. In a few decades, a large-scale IT failure will become more than just an expensive inconvenience: it will
+put our way of life at risk. In the absence of the kind of industrywide changes that will mitigate software failures, how
+much of our future are we willing to gamble on these enormously costly and complex systems?
+We already know how to do software well. It may finally be time to act on what we know.
+

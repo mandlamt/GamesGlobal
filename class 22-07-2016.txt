@@ -1,0 +1,39 @@
+Example Requirements tracing- tool Conflunce
+Unit testing tool - MS Visual Studio
+
+
+PROCESS MODELS
+---------------
+CATEGORIES of process models
+ 	FORMAL PROCESSES - application must do exactly what is expected e.g Avation
+ 	PLAN DRIVEN - WATER FALL
+        Agile
+
+
+WATERFALL Model
+---------------
+
+Errors in requirements cost 50 to 200 more than coding errors
+
+- Waterfall can work well with certain types of software, like embedded software that works with a machine
+- Waterfall works well with applications where requirements are always the same and never change
+- Its a life cycle Model
+
+SPIRAL Model
+------------
+
+SPIRAL is incremental, but in phases
+Spiral is risk driven, you can address the risks in different components
+Its applicable to all scenarios where waterfall could be used with an additonal advantage of diffent phases
+Has been around since 1998
+
+PROJECT FAILURES
+----------------
+1. Unrealistic or unarticulated project goals e.g timelines are too short
+2. Badly defined system requirements
+3. Poor communication among customers, developers and users
+4. Poor project management 
+5. Sloppy development practices
+6. Stakeholder Politics
+
+

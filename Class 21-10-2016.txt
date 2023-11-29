@@ -1,51 +1,87 @@
-Chapter 10
------------
+Software Engineering Challenges
 
-How to deal with conflict/Managing conflict
-
-Discuss - means you give your own background, you set your own scope and you give conlussions
+Quality assurance & maturity model - sSE started in 1968
+-----------------------------------------------------
 
 
 
-Disfunctional/bad/unproductive Conflict PG 333
--Hostility
--Uncompromising
--Aggressivenes
--Waste energy and time
 
-Functional/Good/Productive Conflict PG333
+Who are the well kmown authors in the ICT industry 
 
--Problems revealed
-- Challenge everybody
-- Negotiated solutions
--Questining allowed
-- Creative confrontation
+ROOIFALk south Africa - the produced air craft in RSA - its documentation was heavier than the helicopter it self
 
-Communication in an organisation should allow people to react
+Ad Hoc Approaches
+-Enable flexibility - Agile
 
-TYPES OF CONFLICT
+Formal Approaches
+- Waterfall - excelent verification and product assurance
 
-CAUSES/ANTECEDENTS OF CONFLICT
+PRIMARY REASON FOR AGILE IS TO DO THINGS FASTER, documention and the software
+In Agile software speaks for it self
 
-Chapter 12
-------------
-Leadership & followership
--------------------------
+THE PERCEPTION OF WATERFALL IS THAT:
+- YOU have to document first
+- you have to design first before you start developing
+- and you cannot change things- which is nonese
+- in waterfall you can untroduce change management, and allow for changes
 
-Always start an assignment by defining the subject
-Always define what the assignment is all about
+Some Agile projects do not still provide value, time and cost
 
-Skills a leader needs
----------------------
-- Strategic Thinking
-- Innovative Thinking
-- Rational decision making
+Agile is suitable to solve certain types of problems and waterfall/plan driven is still relevent in certain circumstances
 
-In certain roles you may be a leader, in others a manager
 
-Jobs of a leader
+------------ANTI AGILE MANIFASTO------------
 
-Manage role and leadership..
+---------The SEMAT Iniative------------------
 
-Leader goes out and builds partnerships
-Manager looks after the house
+-Against fashion and following new trends as they come in like Agile
+-
+
+Complex Adapti systems
+----------------------
+
+Book to read- Management 3.0 Leading Agile Developers and developing Agile leaders
+
+THE CASM - Complex- Adaptive Situational Model
+
+WITH AGILE in most cases there is no repositry of knowledge, it relies on people's existing knwoledge but it doesnt encourage knowledge retainment
+
+ALL MODELS ARE WRONG, BUT MAY BE USEFUL
+
+
+QUALITY MANAGEMENT SYSTEMS
+--------------------------
+
+- Software Engineering must be regulated more formally
+- Intangibility
+- Technical Debt?
+- Technical Dept is about minimising bugs and defects through documentation
+- Agile - emraces technical debt by sayign we know that we're going to make mistakes
+
+
+Conrtolled Quality Specification might be gud, but because the client only gets to see the product at the end they might not embrace the system and they might not want to use it
+
+ISO 12207 - is the standard for software engineering processes
+ISO 9126 - is the standard for quality product
+
+Characteristict of software quality
+-----------------------------------
+1. Functionality -> Suitability
+2. Reliability - maturity,fault taulerance, recoverability,reliability
+3. Usability - understandability
+4. Maintainability - changeability,testability
+5. Profitability- 
+6. Efficiency - 
+7. 
+8. 
+
+There are two types of errors - expected and non-espected
+Internet error 404 - is unexpected
+
+
+EXAM PREP
+---------
+
+- EXAM ASSIGNMENT
+WILL give us questions to PREP for exam
+

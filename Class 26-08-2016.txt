@@ -1,0 +1,43 @@
+APPLICATION OF AGILE IN SA COMPANIES (Topic of the day)
+
+Devop - maintenance process, DEVOP is like the cousin of Agile
+
+In Agile - we produce documentation during the project
+
+Most common Agile method in SA is SCRUM
+SCRUM is a method that supports most IT governance approaches, fits in the most in the way big organisations work
+
+CodeFest -- team event for IT
+
+Think of Agile as a tool Box, and use only features of agile(the tool box) that works for you
+
+1.Refactoring - controlled process of altering existing software
+
+User specification is a strating point, but you must be able to refactor your specifications 
+
+2.Continuous Design - create sreens as the project continues instead of having the screen design up-fornt
+
+3. Integrated Reqyurements Engineering - having pre writtent complete specification before the project starts is no longer sufficient
+
+4.Scrum -
+
+5. Desciplined Agile Delivery - the most corporate aware agile methodology.
+
+6. Hybrid/Water-scrum-fall - still follows the sequential water fall model but introduces agility in the middle of the waterfall process, iterate
+								when you get to design and development
+								
+7. Manager Expectations - its easier to deal with changing requirements if you anticipate them, instead of trying to avoid them but nowadays
+							its highly impossible to have good requirements from the beginning.
+							IT has got little say in projects, adopt a servent approaches
+							In Agile face to face is preferred over virtual teams
+							Anticipate scope screen , user requirements are there to solve a business problem, if business changes requirements
+8. Research SLACK TEAM CHAT tool
+9. Be more Evangelistic, not like a formal preacher, show miracles in your software to be successful
+
+DESIGN THINKING
+---------------
+
+Design thinking methodology - human centered thinking 
+  Phases: Empathize, define, ideate, prototype, test
+Show your users what you have all the time
+  
