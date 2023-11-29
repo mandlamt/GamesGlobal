@@ -1,0 +1,24 @@
+1.Predictive Analysis to help goverment make dicisions 
+- Predict drowt-water scaresity in time
+- Predict load -shedding -ENERGY
+- Help with crime
+-POVERTY:
+- Research shows that there is a shortage of skills in the country, Chartered Accountents, IT Specialists,Data Scientist,
+Scientists -- why not use predictive analysis to determine how many of this are we going to need in futer and priotitise
+this at school levels and give appropriate bursaries to encourage youth to go into this fields 
+.Shortage of skills is worsening because of emigration and the ageing of skilled and experienced staff
+
+
+How much data we will need to prevent load shedding 30 yrs from now, will we have enough cops 20yrs from now and what is 
+it that we need to do for the job to attract intelligent people and to make it more exiting
+Predict where security industry is going and attract the right people
+
+Predict Xhenophobia - through data posted and collected on social media
+
+Where is the mining industry going with the current job losses and the drop in commodity priceses,illegal mining operations
+
+Youth and HIV and AIDS
+
+
+
+2.Development of business processes in Gov to enable integration of applications 

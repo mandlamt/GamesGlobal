@@ -1,0 +1,17 @@
+Data mining involves the extraction of useful knowledge, insight, and patterns from sets of data. One of the most important phases of a data mining exercise involves the preparation of the data for mining. This process involves multiple categories of preparation, including data cleaning, data integration from multiple sources, data transformation, data reduction, data value discretisation, and concept hierarchy construction. Furthermore, each category of data preparation encompasses many different techniques and algorithms, more of which are being developed on a continuous basis. Finally, the processing that takes place during a particular phase is not appropriate for every data set.
+
+Data Science
+
+First of all, Obama has created dashboards at Federal level to monitor how major IT technology investments progress. This enables the US government to better control expensive IT projects, something that many governments struggle to achieve.
+
+He also has ensured, via an executive order, that open and machine-readable data becomes the new default for the US government. This will therefore increase the amounts of data sets shared by the government, which in turn can drive innovation and economic growth.
+
+Unleash the power of data for the benefit of the American public
+
+The objective is to create a data-driven government. And according to DJ Patil, a data-driven government “responsibly gathers, processes, leverages and releases data in a timely fashion to enable transparency, create efficiencies, provide security and foster innovation”.
+
+Think Bigger: Developing a Successful Big Data Strategy for Your Business 
+
+Big data - the enormous amount of data that is created as virtually every movement, transaction, and choice we make becomes digitized - is revolutionizing business. Offering real-world insight and explanations, this book provides a roadmap for organizations looking to develop a profitable big data strategy ...and reveals why it's not something they can leave to the I.T. department. Sharing best practices from companies that have implemented a big data strategy including Walmart, InterContinental Hotel Group, Walt Disney, and Shell, Think Bigger covers the most important big data trends affecting organizations, as well as key technologies like Hadoop and MapReduce, and several crucial types of analyses. In addition, the book offers guidance on how to ensure security, and respect the privacy rights of consumers. It also examines in detail how big data is impacting specific industries - and where opportunities can be found. Big data is changing the way businesses - and even governments - are operated and managed. Think Bigger is an essential resource for anyone who wants to ensure that their company isn't left in the dust.
+
+Using predictive analytics and real-time analytics in pursuit of business goals, such as improving the customer experience, improving products and services delivery, and reducing costs and churn.
